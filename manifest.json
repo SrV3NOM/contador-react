@@ -1,6 +1,6 @@
 {
-  "name": "Contador React",
-  "short_name": "Countador React",
+  "name": "Contador App React",
+  "short_name": "Contador React",
   "description": "Contador app hecha con React para el curso de React Desde Cero",
   "background_color": "#333333",
   "theme_color": "#333333",
